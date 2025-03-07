@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-10.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-11.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-12.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-13.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-14.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-15.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu-9.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\meiyi\\Downloads\\sushiAPI\\sushiAPI\\wwwroot\\images\\menu=16.jpg",
+      "PackagePath": "staticwebassets\\images\\menu=16.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sushiAPI.props",
+      "PackagePath": "build\\sushiAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.sushiAPI.props",
+      "PackagePath": "buildMultiTargeting\\sushiAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.sushiAPI.props",
+      "PackagePath": "buildTransitive\\sushiAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.sushiAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

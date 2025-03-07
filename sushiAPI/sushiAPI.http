@@ -1,0 +1,6 @@
+@sushiAPI_HostAddress = http://localhost:5204
+
+GET {{sushiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
